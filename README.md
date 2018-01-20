@@ -21,5 +21,6 @@ in order to contribute we want to ask you to meet the following rules:
 - when creating a PR we need to know why this  addition or change is needed.
 - make sure the commits are clearly noted and what is added or deleted.
 - in order to create a PR make sure to make a issue first explaining what the problem is and documenting what your PR is supposed todo.
+- always create the PR on branch bleeding-edge
 
 if everything is right we can accept the pull request.
