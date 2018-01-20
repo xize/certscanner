@@ -2,7 +2,7 @@
 A easy to use gui for sigcheck
 
 ### what is certscanner?
-cert scanner is a utility specially crafted to detect possible indicators of unknown malware.
+cert scanner is a utility specially crafted to detect possible indicators of unknown malware.    
 we do use sigcheck created by Mark Russinovich (https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck)
 but we make it easier to check for indicators of compromise.
 
